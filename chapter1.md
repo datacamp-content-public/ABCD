@@ -3,58 +3,142 @@ title: Test
 description: Test
 ---
 
-## An exercise title written in sentence case
+## Insert exercise title here
 
 ```yaml
 type: NormalExercise
-key: bda285e976
-lang: python
+key: d42f6d0ac5
 xp: 100
-skills: 2
 ```
 
-This is the assignment text. It should help provide students with the background information needed.
-The instructions that follow should be in bullet point form with clear guidance for what is expected.
+
 
 `@instructions`
-- Instruction 1
-- Instruction 2
-- Instruction 3
+
 
 `@hint`
-- Here is the hint for this setup problem. 
-- It should get students 50% of the way to the correct answer.
-- So don't provide the answer, but don't just reiterate the instructions.
-- Typically one hint per instruction is a sensible amount.
+
 
 `@pre_exercise_code`
 ```{python}
-# Load datasets and packages here.
+
 ```
 
 `@sample_code`
 ```{python}
-# Your
-# sample
-# code
-# should
-# be
-# ideally
-# 10 lines or less,
-# with a max
-# of 16 lines.
+
 ```
 
 `@solution`
 ```{python}
-# Answer goes here
-# Make sure to match the comments with your sample code
-# to help students see the differences from solution
-# to given.
+
 ```
 
 `@sct`
 ```{python}
-# Update this to something more informative.
-success_msg("Some praise! Then reinforce a learning objective from the exercise.")
+
+```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise
+key: 7dcadcaf05
+xp: 50
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 60b233bb9d
+xp: 50
+```
+
+
+
+`@hint`
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+key: e9b486b96a
+xp: 100
+```
+
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{python}
+
+```
+
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: BulletExercise
+key: 4224f5abb3
+xp: 100
+```
+
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{python}
+
 ```
